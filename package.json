@@ -1,5 +1,5 @@
 {
-  "name": "async-iter-tools",
+  "name": "async-iter-utils",
   "version": "1.0.0",
   "description": "Useful utilities for js async iterators",
   "main": "index.js",
@@ -7,13 +7,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hkk12369/async-iter-tools.git"
+    "url": "git+https://github.com/hkk12369/async-iter-utils.git"
   },
   "bugs": {
-    "url": "https://github.com/hkk12369/async-iter-tools/issues"
+    "url": "https://github.com/hkk12369/async-iter-utils/issues"
   },
-  "homepage": "https://github.com/hkk12369/async-iter-tools#readme",
+  "homepage": "https://github.com/hkk12369/async-iter-utils#readme",
   "keywords": [
+    "async-iter-utils",
     "async-iter-tools",
     "async-iterator-utils",
     "async-iterator",
